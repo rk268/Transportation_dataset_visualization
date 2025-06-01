@@ -113,7 +113,7 @@ This dashboard is ideal for:
 
 For feedback, enhancements, or to collaborate on analytics projects, feel free to reach out:
 
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/rupak-kulkarni/)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/rupak-kulkarni/)
 - 📧 Email: rupakkul97@gmail.com
 
 
